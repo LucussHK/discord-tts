@@ -106,7 +106,6 @@ Key files in this repository:
 - `subprocess_wrapper.py` - Helper for hiding console windows
 - `requirements.txt` - Python dependencies
 - `icon.ico` - Application icon
-- `build.bat` - Simple build script for PyInstaller
 
 You'll need to obtain the following files separately (not included due to size):
 - `ffmpeg.exe` - For audio processing 
@@ -120,8 +119,6 @@ To create a standalone executable:
 pip install pyinstaller
 pyinstaller --onefile --windowed --icon=icon.ico --name discord_tts_app --add-binary "ffmpeg.exe;." --add-binary "ffprobe.exe;." --add-data "subprocess_wrapper.py;." --add-data "icon.ico;." discord_tts_app.py
 ```
-
-Alternatively, you can use the included `build.bat` script.
 
 ## Troubleshooting
 
