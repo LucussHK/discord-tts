@@ -1,6 +1,9 @@
 # Discord TTS App
 
-A desktop application that allows users to convert text to speech and route it to Discord voice channels, perfect for users without a microphone or those who prefer typing over speaking.
+A desktop application that converts text into speech and routes it to Discord voice chat.  
+Perfect for users who don’t have a microphone, can’t speak at the moment, or simply prefer typing over talking — this app helps everyone stay part of the voice chat experience.
+
+While designed with Discord in mind, the app can be used with **any application that accepts voice input**, thanks to its flexible audio routing options.
 
 ![Discord TTS App](https://github.com/user-attachments/assets/351b3f2d-7918-4f60-9d4c-0e428e8cd50f)
 
@@ -79,6 +82,22 @@ This application uses Microsoft Edge TTS to generate speech from text, then rout
 3. Choose your preferred language and voice
 4. Type your message in the text box
 5. Click "Speak in Discord" or press Enter to send the audio to Discord
+
+## 🎙️ Important Audio Setup Note
+
+To make sure your voice is sent to Discord correctly:
+
+- In **Discord**, go to **Settings → Voice & Video**
+- Under **Input Device**, select:
+
+  ![Discord Input Device](https://github.com/user-attachments/assets/80917fcb-4de3-49ac-a27a-986091a6670b)  
+  *(Default (CABLE Output (VB-Audio Virtual Cable)))*
+
+> ⚠️ **Important:** Do **not** change the **"Output Device"** in Discord unless you know exactly what you’re doing.  
+> It should remain your regular speakers or headphones so you can still hear others clearly during voice chats.
+
+💡 Bonus Tip: This app can also be used in **any other application that accepts voice input**, such as **Zoom**, **Skype**, or **VRChat** — just select the **VB-Cable** as your microphone input.
+
 
 ## Project Structure
 
