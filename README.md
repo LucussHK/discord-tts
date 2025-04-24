@@ -29,7 +29,7 @@ This application uses Microsoft Edge TTS to generate speech from text, then rout
 
 ### Option 1: Pre-built Installer (Windows)
 
-1. Download the latest installer from the [Releases](https://github.com/username/discord-tts/releases) page
+1. Download the latest installer from the [Releases](https://github.com/LucussHK/discord-tts/releases) page
 2. Run the installer, which will:
    - Install the application
    - Set up the VB-Cable virtual audio device
@@ -39,7 +39,7 @@ This application uses Microsoft Edge TTS to generate speech from text, then rout
 
 1. Clone this repository:
    ```
-   git clone https://github.com/username/discord-tts.git
+   git clone https://github.com/LucussHK/discord-tts.git
    cd discord-tts
    ```
 
