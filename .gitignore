@@ -1,0 +1,51 @@
+# Build artifacts
+build/
+dist/
+*.spec
+DiscordTTS_Installer.exe
+
+# Python Virtual Environment
+venv/
+env/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Large binary files
+ffmpeg.exe
+ffprobe.exe
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Package artifacts
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/ 
