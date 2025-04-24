@@ -2,12 +2,12 @@
 
 A desktop application that allows users to convert text to speech and route it to Discord voice channels, perfect for users without a microphone or those who prefer typing over speaking.
 
-![Discord TTS App](https://raw.githubusercontent.com/user/discord-tts/main/screenshot.png)
+![Discord TTS App](https://raw.githubusercontent.com/user/discord-tts/main/icon.ico)
 
 ## Features
 
 - **Text-to-Speech with Microsoft Edge TTS**: High-quality, natural-sounding voices
-- **Multi-language Support**: English, Chinese, Japanese, Korean, Spanish, French, German, Russian, and more
+- **Multilanguage Support**: English and Chinese (Simplified, Traditional, Hong Kong). You can easily add more languages by editing the `supported_locales` list in the source code.
 - **Voice Selection**: Multiple voice options for each language
 - **Speech Rate Control**: Adjust the speaking speed
 - **Message History**: Access previously sent messages
