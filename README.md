@@ -2,7 +2,7 @@
 
 A desktop application that allows users to convert text to speech and route it to Discord voice channels, perfect for users without a microphone or those who prefer typing over speaking.
 
-![Discord TTS App](https://raw.githubusercontent.com/user/discord-tts/main/icon.ico)
+![Discord TTS App](https://github.com/user-attachments/assets/351b3f2d-7918-4f60-9d4c-0e428e8cd50f)
 
 ## Features
 
