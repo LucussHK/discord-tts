@@ -4,9 +4,7 @@ A desktop application that converts text into speech and routes it to Discord vo
 Perfect for users who don’t have a microphone, can’t speak at the moment, or simply prefer typing over talking — this app helps everyone stay part of the voice chat experience.
 
 While designed with Discord in mind, the app can be used with **any application that accepts voice input**, thanks to its flexible audio routing options.
-
-![Discord TTS App](https://github.com/user-attachments/assets/351b3f2d-7918-4f60-9d4c-0e428e8cd50f)
-
+<img src="https://github.com/user-attachments/assets/351b3f2d-7918-4f60-9d4c-0e428e8cd50f" alt="Discord TTS App" width="400"/>
 ## Features
 
 - **Text-to-Speech with Microsoft Edge TTS**: High-quality, natural-sounding voices
