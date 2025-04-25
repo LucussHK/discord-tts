@@ -1,5 +1,7 @@
 # Discord TTS App
 
+[點此查看中文版 README](README_zh.md)
+
 A desktop application that converts text into speech and routes it to Discord voice chat.  
 Perfect for users who don’t have a microphone, can’t speak at the moment, or simply prefer typing over talking — this app helps everyone stay part of the voice chat experience.
 
