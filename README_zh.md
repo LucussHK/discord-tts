@@ -131,7 +131,7 @@ pyinstaller --onefile --windowed --icon=icon.ico --name discord_tts_app --add-bi
 
 本專案採用 MIT 授權條款，詳見 LICENSE 檔案。
 
-## 致謝名單
+## 使用技術
 
 - [Microsoft Edge TTS](https://github.com/rany2/edge-tts)：語音合成引擎核心  
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)：現代化介面框架  
